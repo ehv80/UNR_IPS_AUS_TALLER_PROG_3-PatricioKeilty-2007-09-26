@@ -1,0 +1,5 @@
+Prueba de ejecución de un SERVLET que se levante 
+mediante el TOMCAT-APACHE desde el ECLIPSE mismo
+
+RUN -> RUN AS -> RUN ON SERVER
+
